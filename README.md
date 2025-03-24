@@ -23,11 +23,6 @@ AI Travel Assistant is a **smart, AI-powered travel planner** designed to provid
 - Classifies queries into different sub-agents for specialized responses.
 - Uses predefined knowledge databases for context-aware recommendations.
 
-📚 RAG-Based Information Retrieval
-- Stores and retrieves PDF-based travel guides for deep contextual insights.
-- Uses a vector store to fetch relevant travel blogs, guides, and tips**.
-- Implements cosine similarity for precise search results.
-
 🌐 Web Crawler for Up-to-Date Travel Information
 - Scrapes real-time travel restrictions, visa rules, and local guidelines.
 - Provides live updates on flight prices, hotel deals, and local events.
