@@ -41,16 +41,6 @@ AI Travel Assistant is a **smart, AI-powered travel planner** designed to provid
 - Suggests best-value travel packages.
 - Optimizes flight and hotel selections based on cost and convenience.
 
-🛠️ Tech Stack
-- Backend: Python, FastAPI, Node.js
-- Frontend: Next.js, TailwindCSS, React
-- Database: MongoDB (Atlas), PostgreSQL
-- Vector Store: FAISS / Pinecone
-- AI Models: OpenAI GPT-4, LangChain
-- Web Scraping: BeautifulSoup, Selenium
-- Weather API: OpenWeather API / WeatherStack
-- Cloud Services: AWS Lambda, Firebase, Google Cloud Functions
-
 🎯 Future Enhancements
 - 🛩️ **Flight & Hotel API Integration** for real-time bookings.
 - 🗣️ **Voice-enabled AI Assistant** for hands-free planning.
