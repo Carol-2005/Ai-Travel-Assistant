@@ -39,6 +39,7 @@ export default function Home() {
               </h1>
               <p className="mt-6 text-xl text-gray-700 max-w-lg">
                 Your intelligent travel companion that plans personalized trips based on your preferences, budget, and destination.
+                We provide a seamless experience.
               </p>
               
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
