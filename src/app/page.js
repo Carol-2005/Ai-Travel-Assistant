@@ -57,7 +57,7 @@ export default function Home() {
                   className="px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg shadow-lg hover:bg-blue-700 transition-colors duration-300"
                   onClick={() => setShowFeatures(true)}
                 >
-                  Plan My Trip
+                  Plan My Trip.Make it quick
                 </button>
               </div>
               
